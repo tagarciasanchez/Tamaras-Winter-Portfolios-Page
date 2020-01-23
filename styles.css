@@ -1,0 +1,34 @@
+body {
+    background: deeppink;
+}
+img {
+    width: 650px;
+}
+.Algebra {
+color:chartreuse;
+font-family: 'Bebas Neue', cursive;
+}
+.english {
+color:aqua;
+font-family: 'Solway', serif;
+}
+.history {
+    color: cornflowerblue;
+    font-family: 'Sulphur Point', sans-serif;
+}
+.science {
+    color: fuchsia;
+    font-family: 'Slabo 27px', serif;
+}
+.advisory {
+    color: deepskyblue;
+    font-family: 'Lobster', cursive;
+}
+.coding {
+    color: greenyellow;
+    font-family: 'Calistoga', cursive;
+}
+.college {
+    color: orchid;
+    font-family: 'Indie Flower', cursive;
+}
